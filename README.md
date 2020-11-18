@@ -7,7 +7,7 @@ web designing using reactjs sesssions
 #####  Good Afternoon
 ##### Its clear or not
 
-In computer science, a data structure is a data organisation, management
+~In computer science, a data structure is a data organisation, management~
 
 *In computer science, a data structure is a data organisation, management*
 
@@ -32,3 +32,12 @@ In computer science, a data structure is a data organisation, management
 |------|-------------|-------|
 | lohith | 17a31a04h0 | lohithkumar338@gmail.com |
 | saroja | 1234 | saroja559@gmail.com |
+
+# Link
+ [google](https://www.google.com)
+ ![hello](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
+ 
+ - [x] HTML
+ - [x] CSS
+ - [x] JAVASCRIPT
+ - [x] react js
